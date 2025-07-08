@@ -1,0 +1,17 @@
+ h1{
+   text-align: center;
+}
+body {
+   background-color: rgb(17, 161, 213);
+}
+
+p{
+   font-size: 22px;
+   font-family:fantasy ;
+}
+
+footer p{
+   font-size: 12px;
+   color: white;
+   font-family: sans-serif;
+}
